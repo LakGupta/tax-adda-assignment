@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tax-adda-assignment/static/css/main.14ba7800.chunk.css",
+    "main.js": "/tax-adda-assignment/static/js/main.901fc910.chunk.js",
+    "main.js.map": "/tax-adda-assignment/static/js/main.901fc910.chunk.js.map",
+    "runtime-main.js": "/tax-adda-assignment/static/js/runtime-main.17ba7459.js",
+    "runtime-main.js.map": "/tax-adda-assignment/static/js/runtime-main.17ba7459.js.map",
+    "static/js/2.80277244.chunk.js": "/tax-adda-assignment/static/js/2.80277244.chunk.js",
+    "static/js/2.80277244.chunk.js.map": "/tax-adda-assignment/static/js/2.80277244.chunk.js.map",
+    "static/js/3.037560a1.chunk.js": "/tax-adda-assignment/static/js/3.037560a1.chunk.js",
+    "static/js/3.037560a1.chunk.js.map": "/tax-adda-assignment/static/js/3.037560a1.chunk.js.map",
+    "index.html": "/tax-adda-assignment/index.html",
+    "static/css/main.14ba7800.chunk.css.map": "/tax-adda-assignment/static/css/main.14ba7800.chunk.css.map",
+    "static/js/2.80277244.chunk.js.LICENSE.txt": "/tax-adda-assignment/static/js/2.80277244.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17ba7459.js",
+    "static/js/2.80277244.chunk.js",
+    "static/css/main.14ba7800.chunk.css",
+    "static/js/main.901fc910.chunk.js"
+  ]
+}
